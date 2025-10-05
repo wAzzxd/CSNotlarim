@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS_denemeler
+namespace _01_MainSubject
 {
     class Program
     {
