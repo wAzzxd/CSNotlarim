@@ -10,6 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
+
             #region Double Değişkenler
 
             //double number;
