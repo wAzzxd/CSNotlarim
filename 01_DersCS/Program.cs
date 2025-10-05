@@ -143,7 +143,6 @@ namespace CS_denemeler
             //Console.WriteLine("Toplam Ödenecek Tutar: " + totalPrice + "TL");
             #endregion
 
-
             Console.Read();
         }
     }
