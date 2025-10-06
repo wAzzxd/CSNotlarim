@@ -152,7 +152,6 @@ namespace _03_MakingDecision
 
             #endregion
 
-
             #region Char Değişkenler ile Karar Yapıları 
 
             //char team;
@@ -173,7 +172,6 @@ namespace _03_MakingDecision
             //}
 
             #endregion
-
 
             #region Örnek Proje Uygulaması  
 
@@ -199,7 +197,6 @@ namespace _03_MakingDecision
 
 
                 #endregion
-
                 Console.Read();
         }
     }
