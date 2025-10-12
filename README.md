@@ -11,4 +11,4 @@ Her klasör farklı bir dersi temsil eder.
 - `05_LoopsWithStars` → Döngüler ile Uygulamalar (` For Uygulamaları`, vs.)
 - `06_Arrays` → Diziler (` Temel Dizi Örnekleri, Dizi Metotları ve Uygulamalar`, vs.)
 - `07_ForeachLoop` → Foreach Döngüsü (` Foreach ve List Kullanımı, Örnek Uygulama`, vs.)
-- `08_Metotlar` → Metotlar (` Void Metotlar ve Değer DÖndüren Metotlar`, vs.)
+- `08_Methods` → Metotlar (` Void Metotlar ve Değer Döndüren Metotlar`, vs.)
