@@ -152,23 +152,23 @@ namespace _08_Methods
 
             #region Örnek Uygulama
 
-            string Result(string student, int exam1,  int exam2,int exam3)
-            {
-                int result = (exam1 + exam2 + exam3) / 3;
+            //string Result(string student, int exam1,  int exam2,int exam3)
+            //{
+            //    int result = (exam1 + exam2 + exam3) / 3;
 
-                if (result >= 50)
-                {
-                    return student + " İsimli öğrenci Dersi Geçti" + " Ortalama: " + result;
-                }
-                else
-                {
-                    return student + " İsimli öğrenci Sınavdan Kaldı" + " Ortalama: " + result;
-                }
+            //    if (result >= 50)
+            //    {
+            //        return student + " İsimli öğrenci Dersi Geçti" + " Ortalama: " + result;
+            //    }
+            //    else
+            //    {
+            //        return student + " İsimli öğrenci Sınavdan Kaldı" + " Ortalama: " + result;
+            //    }
 
-            }
+            //}
 
-            Console.WriteLine(Result("Ali", 25,58,39));
-            Console.WriteLine(Result("Ahmet", 75,49,90));
+            //Console.WriteLine(Result("Ali", 25,58,39));
+            //Console.WriteLine(Result("Ahmet", 75,49,90));
 
 
             #endregion
