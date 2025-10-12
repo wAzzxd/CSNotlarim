@@ -169,7 +169,6 @@ namespace _08_Methods
 
             //Console.WriteLine(Result("Ali", 25,58,39));
             //Console.WriteLine(Result("Ahmet", 75,49,90));
-             
 
             #endregion
 
